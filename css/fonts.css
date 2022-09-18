@@ -23,14 +23,14 @@
   src: url(../fonts/RobotoCondensed-Regular.woff2) format("woff2"), url(../fonts/RobotoCondensed-Regular.woff) format("woff");
 }
 @font-face {
-  font-family: "Dosis-Light";
+  font-family: "Dosis-Medium";
   font-weight: 500;
   font-style: normal;
-  src: url(../fonts/Dosis-Light.woff2) format("woff2"), url(../fonts/Dosis-Light.woff) format("woff");
+  src: url(../fonts/Dosis-Medium.woff2) format("woff2"), url(../fonts/Dosis-Medium.woff) format("woff");
 }
 @font-face {
-  font-family: "Dosis-Medium";
+  font-family: "Dosis-Light";
   font-weight: 300;
   font-style: normal;
-  src: url(../fonts/Dosis-Medium.woff2) format("woff2"), url(../fonts/Dosis-Medium.woff) format("woff");
+  src: url(../fonts/Dosis-Light.woff2) format("woff2"), url(../fonts/Dosis-Light.woff) format("woff");
 }
